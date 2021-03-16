@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: STO Nation
 image: /img/img_1015.jpg
 heading: Welcome to STO Nation
 subheading: A place to talk all things Storyteller Overland
